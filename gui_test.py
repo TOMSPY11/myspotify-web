@@ -4,13 +4,13 @@ import webbrowser
 
 # ---------------- LINKS ----------------
 
-def open_github(e):
+def open_github():
     webbrowser.open(
         "https://github.com/TOMSPY11/myspotify.py_terminal"
     )
 
 
-def spotify_dev(e):
+def spotify_dev():
     webbrowser.open(
         "https://developer.spotify.com/dashboard"
     )
